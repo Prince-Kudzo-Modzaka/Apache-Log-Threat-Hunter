@@ -1,0 +1,16 @@
+{
+    "scan_metadata": {
+        "timestamp": "2026-11-24 13:53:17",
+        "log_file_analyzed": "Apache_2k.log",
+        "total_alerts": 1
+    },
+    "top_attacked_days": {
+        "Mon Dec 05 10:00:00 2005": 1
+    },
+    "raw_alerts": [
+        {
+            "date": "Mon Dec 05 10:00:00 2005",
+            "matched_log": "[Mon Dec 05 10:00:00 2005] [error] [client 192.168.1.100] File does not exist: /etc/passwd"
+        }
+    ]
+}
