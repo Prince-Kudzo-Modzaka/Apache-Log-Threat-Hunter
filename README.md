@@ -22,4 +22,5 @@ This project utilizes the **Apache_2k.log** dataset from the open-source **[Logh
    ```bash
    python treat_hunting.py
 ```
-<img width="960" height="514" alt="pas3" src="https://github.com/user-attachments/assets/dd52d0aa-b6ec-4dec-801d-c6b6e16a7eea" /> 
+```
+<img width="960" height="514" alt="pas3" src="https://github.com/user-attachments/assets/96ca6e3d-12e4-4c09-a301-3fc520b17e21" />
